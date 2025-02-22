@@ -1,0 +1,4 @@
+﻿  kalkulator pola.cpp
+C:\Users\krukg\source\repos\kalkulator pola\kalkulator pola\kalkulator pola.cpp(62,19): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\krukg\source\repos\kalkulator pola\kalkulator pola\kalkulator pola.cpp(68,19): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  kalkulator pola.vcxproj -> C:\Users\krukg\source\repos\kalkulator pola\x64\Debug\kalkulator pola.exe
