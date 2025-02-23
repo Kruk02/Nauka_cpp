@@ -1,0 +1,3 @@
+﻿  Vector, powtorzenie slow.cpp
+C:\Users\krukg\source\repos\Vector, powtorzenie slow\Vector, powtorzenie slow\Vector, powtorzenie slow.cpp(32,10): warning C4244: "inicjowanie": konwersja z "__int64" do "int", możliwa utrata danych
+  Vector, powtorzenie slow.vcxproj -> C:\Users\krukg\source\repos\Vector, powtorzenie slow\x64\Debug\Vector, powtorzenie slow.exe
